@@ -1,0 +1,15 @@
+{
+  "name": "Jilact — Cinematic Scheduler",
+  "short_name": "Jilact",
+  "description": "Votre studio de planification de contenus sociaux.",
+  "lang": "fr-FR",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#0d0f12",
+  "theme_color": "#0d0f12",
+  "icons": [
+    {"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}
+  ]
+}
