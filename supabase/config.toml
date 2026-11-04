@@ -1,1 +1,35 @@
+[functions.youtube-oauth-callback]
+verify_jwt = false
 
+[functions.youtube-oauth-start]
+verify_jwt = true
+
+[functions.youtube-token]
+verify_jwt = true
+
+[functions.youtube-account-status]
+verify_jwt = true
+
+[functions.tiktok-oauth-start]
+verify_jwt = true
+
+[functions.tiktok-oauth-callback]
+verify_jwt = false
+
+[functions.tiktok-account-status]
+verify_jwt = true
+
+[functions.tiktok-disconnect]
+verify_jwt = true
+
+[functions.tiktok-creator-info]
+verify_jwt = true
+
+[functions.tiktok-publish-init]
+verify_jwt = true
+
+[functions.tiktok-publish-status]
+verify_jwt = true
+
+[functions.tiktok-upload-chunk]
+verify_jwt = true
